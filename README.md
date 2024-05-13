@@ -34,6 +34,9 @@ ChatGPT 4.0 e DALL-e
 As ferramentas de IA generativa são facilitadores enormes para diversas funções do dia a dia, seja como apoio no desenvolvimento de trabalhos educacionais, seja no auxilio de correção de bugs de programação, na resposta de perguntas triviais ou até mesmo na busca por artigos e livros cientificos. É com certeza um novo mundo se abrindo.
 Ao meu ver, a maior dificuldade esta em aprender como perguntar as coisas de forma eficiente para ela, tanto na geração de textos como de imagens, conseguir expor a ideia do que você precisa que ela te forneça, é a maior dificuldade. Perguntas claras e objetivas tentem a ter um resultado melhor, mas nem sempre a IA responderá aquilo que você esta procurando. Mas de forma geral, é uma ferramenta fantástica, e prevejo muitas utilidades para ela como auxilio para todo mundo.  
 
+A verdade, é que será cada vez mais dificil diferenciarmos um texto escrito por uma IA Generativa, e um texto escrito por humanos.
+Assim como será cada vez mais dificil diferenciarmos uma imagem gerada pela IA com uma imagem gerada por um humano. 
+
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
