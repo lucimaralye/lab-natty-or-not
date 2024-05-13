@@ -8,35 +8,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Utilizando as IAs Generativas para facilitar no dia a dia 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Explorando e descobrindo como a IA Generativa pode facilitar no dia a dia, além de auxiliar na geração de conteúdo. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT 4.0 e DALL-e
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1) Para a crialção de Texto, eu solicitei que o Chat GPT me explicasse, afinal, o que é o termo "Natty or Not", e avaliei se o que ela gerou é um texto coerente, e se o texto tem familiaridade com a escrita "humana".
+2) Para a criação de uma imagem, solicitei que o DALL-e gerasse uma imagem de uma Aurora Boreal sobre os céus de São Paulo. 
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🚀 Resultados!
+
+[image](https://github.com/lucimaralye/lab-natty-or-not/assets/142181198/b58d237e-9d0c-4ab8-8e0d-80f4dc558d2c)
+
+![image](https://github.com/lucimaralye/lab-natty-or-not/assets/142181198/e5847680-aee8-472b-bcb5-fbd8fe2075fc)
+
+![image](https://github.com/lucimaralye/lab-natty-or-not/assets/142181198/accff1cb-510a-4f75-84c4-41f8a5f82b90)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+As ferramentas de IA generativa são facilitadores enormes para diversas funções do dia a dia, seja como apoio no desenvolvimento de trabalhos educacionais, seja no auxilio de correção de bugs de programação, na resposta de perguntas triviais ou até mesmo na busca por artigos e livros cientificos. É com certeza um novo mundo se abrindo.
+Ao meu ver, a maior dificuldade esta em aprender como perguntar as coisas de forma eficiente para ela, tanto na geração de textos como de imagens, conseguir expor a ideia do que você precisa que ela te forneça, é a maior dificuldade. Perguntas claras e objetivas tentem a ter um resultado melhor, mas nem sempre a IA responderá aquilo que você esta procurando. Mas de forma geral, é uma ferramenta fantástica, e prevejo muitas utilidades para ela como auxilio para todo mundo.  
 
 ### Exemplos e Insigths
 
