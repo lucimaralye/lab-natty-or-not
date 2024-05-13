@@ -25,9 +25,9 @@ ChatGPT 4.0 e DALL-e
 
 [image](https://github.com/lucimaralye/lab-natty-or-not/assets/142181198/b58d237e-9d0c-4ab8-8e0d-80f4dc558d2c)
 
-![image](https://github.com/lucimaralye/lab-natty-or-not/assets/142181198/e5847680-aee8-472b-bcb5-fbd8fe2075fc)
+[image](https://github.com/lucimaralye/lab-natty-or-not/assets/142181198/e5847680-aee8-472b-bcb5-fbd8fe2075fc)
 
-![image](https://github.com/lucimaralye/lab-natty-or-not/assets/142181198/accff1cb-510a-4f75-84c4-41f8a5f82b90)
+[image](https://github.com/lucimaralye/lab-natty-or-not/assets/142181198/accff1cb-510a-4f75-84c4-41f8a5f82b90)
 
 
 ## 💭 Reflexão (Opcional)
